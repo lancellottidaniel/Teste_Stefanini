@@ -1,0 +1,11 @@
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\bin\Debug\Teste_BLL.dll
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\bin\Debug\Teste_BLL.pdb
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\bin\Debug\Erro.dll
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\bin\Debug\Pessoa.dll
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\bin\Debug\Produto.dll
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\bin\Debug\Teste_DAL.dll
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\obj\Debug\Teste_BLL.csprojAssemblyReference.cache
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\obj\Debug\Teste_BLL.csproj.CoreCompileInputs.cache
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\obj\Debug\Teste_BLL.csproj.CopyComplete
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\obj\Debug\Teste_BLL.dll
+C:\Users\dlancellotti\source\repos\Teste_BLL\Teste_BLL\obj\Debug\Teste_BLL.pdb
