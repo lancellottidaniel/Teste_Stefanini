@@ -1,0 +1,6 @@
+C:\Users\dlancellotti\source\repos\Erro\Erro\bin\Debug\Erro.dll
+C:\Users\dlancellotti\source\repos\Erro\Erro\bin\Debug\Erro.pdb
+C:\Users\dlancellotti\source\repos\Erro\Erro\obj\Debug\Erro.csprojAssemblyReference.cache
+C:\Users\dlancellotti\source\repos\Erro\Erro\obj\Debug\Erro.csproj.CoreCompileInputs.cache
+C:\Users\dlancellotti\source\repos\Erro\Erro\obj\Debug\Erro.dll
+C:\Users\dlancellotti\source\repos\Erro\Erro\obj\Debug\Erro.pdb

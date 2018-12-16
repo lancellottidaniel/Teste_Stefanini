@@ -1,0 +1,6 @@
+C:\Users\dlancellotti\source\repos\Pessoa\Pessoa\bin\Debug\Pessoa.dll
+C:\Users\dlancellotti\source\repos\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\dlancellotti\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.csprojAssemblyReference.cache
+C:\Users\dlancellotti\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\dlancellotti\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.dll
+C:\Users\dlancellotti\source\repos\Pessoa\Pessoa\obj\Debug\Pessoa.pdb

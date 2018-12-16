@@ -1,0 +1,6 @@
+c:\users\dlancellotti\source\repos\Produto\Produto\bin\Debug\Produto.dll
+c:\users\dlancellotti\source\repos\Produto\Produto\bin\Debug\Produto.pdb
+c:\users\dlancellotti\source\repos\Produto\Produto\obj\Debug\Produto.csprojAssemblyReference.cache
+c:\users\dlancellotti\source\repos\Produto\Produto\obj\Debug\Produto.csproj.CoreCompileInputs.cache
+c:\users\dlancellotti\source\repos\Produto\Produto\obj\Debug\Produto.dll
+c:\users\dlancellotti\source\repos\Produto\Produto\obj\Debug\Produto.pdb
