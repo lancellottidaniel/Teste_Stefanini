@@ -1,0 +1,8 @@
+c:\users\dlancellotti\source\repos\Teste_Stefanini\Teste_Stefanini\obj\Debug\Teste_Stefanini.csprojAssemblyReference.cache
+c:\users\dlancellotti\source\repos\Teste_Stefanini\Teste_Stefanini\obj\Debug\Teste_Stefanini.csproj.CoreCompileInputs.cache
+c:\users\dlancellotti\source\repos\Teste_Stefanini\Teste_Stefanini\bin\Debug\Teste_Stefanini.exe.config
+c:\users\dlancellotti\source\repos\Teste_Stefanini\Teste_Stefanini\bin\Debug\Teste_Stefanini.exe
+c:\users\dlancellotti\source\repos\Teste_Stefanini\Teste_Stefanini\bin\Debug\Teste_Stefanini.pdb
+c:\users\dlancellotti\source\repos\Teste_Stefanini\Teste_Stefanini\obj\Debug\Teste_Stefanini.exe
+c:\users\dlancellotti\source\repos\Teste_Stefanini\Teste_Stefanini\obj\Debug\Teste_Stefanini.pdb
+C:\Users\dlancellotti\source\repos\Teste_Stefanini\Teste_Stefanini\obj\Debug\Teste_Stefanini.csproj.CopyComplete
