@@ -1,0 +1,10 @@
+C:\Users\dlancellotti\source\repos\Teste_DAL\Teste_DAL\bin\Debug\Teste_DAL.dll
+C:\Users\dlancellotti\source\repos\Teste_DAL\Teste_DAL\bin\Debug\Teste_DAL.pdb
+C:\Users\dlancellotti\source\repos\Teste_DAL\Teste_DAL\bin\Debug\Erro.dll
+C:\Users\dlancellotti\source\repos\Teste_DAL\Teste_DAL\bin\Debug\Pessoa.dll
+C:\Users\dlancellotti\source\repos\Teste_DAL\Teste_DAL\bin\Debug\Produto.dll
+C:\Users\dlancellotti\source\repos\Teste_DAL\Teste_DAL\obj\Debug\Teste_DAL.csprojAssemblyReference.cache
+C:\Users\dlancellotti\source\repos\Teste_DAL\Teste_DAL\obj\Debug\Teste_DAL.csproj.CoreCompileInputs.cache
+C:\Users\dlancellotti\source\repos\Teste_DAL\Teste_DAL\obj\Debug\Teste_DAL.csproj.CopyComplete
+C:\Users\dlancellotti\source\repos\Teste_DAL\Teste_DAL\obj\Debug\Teste_DAL.dll
+C:\Users\dlancellotti\source\repos\Teste_DAL\Teste_DAL\obj\Debug\Teste_DAL.pdb
